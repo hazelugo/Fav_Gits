@@ -8,7 +8,7 @@ dist/
 .vscode/
 .idea/
 .npmignore
-
+.DS_Store
 
 # Docs Site
 docs/.vitepress/cache/
